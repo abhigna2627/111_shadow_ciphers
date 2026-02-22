@@ -364,8 +364,4 @@ Built with ❤️ for saving lives and making the world a better place.
 
 </div>
 
----
 
-**Questions? Check the documentation files or review the code comments!**
-
-Good luck with your hackathon! 🎉🚀
