@@ -6,14 +6,6 @@
 
 *Saving Lives Through Technology*
 
-[![Built with React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
-[![Powered by Supabase](https://img.shields.io/badge/Supabase-Backend-green.svg)](https://supabase.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-blue.svg)](https://www.typescriptlang.org/)
-[![Maps by Leaflet](https://img.shields.io/badge/Maps-Leaflet.js-green.svg)](https://leafletjs.com/)
-
-</div>
-
----
 
 ## 🎯 What is RAKSH?
 
@@ -89,33 +81,7 @@ Click **Sign Up** and choose your role:
 
 ---
 
-## 📚 Documentation
 
-We've created comprehensive documentation for your hackathon success:
-
-### 📖 Essential Reading
-
-1. **[QUICK_START.md](./QUICK_START.md)** ⭐ START HERE
-   - 5-minute setup guide
-   - Step-by-step demo script
-   - Testing checklist
-
-2. **[DEMO_ACCOUNTS.md](./DEMO_ACCOUNTS.md)** ⭐ FOR PRESENTATIONS
-   - Pre-configured demo credentials
-   - Presentation script
-   - Pro tips for winning
-
-3. **[RAKSH_DOCUMENTATION.md](./RAKSH_DOCUMENTATION.md)**
-   - Complete feature documentation
-   - API reference
-   - Phase-by-phase breakdown
-
-4. **[ARCHITECTURE.md](./ARCHITECTURE.md)**
-   - Technical architecture
-   - Data flow diagrams
-   - System design decisions
-
----
 
 ## 🎬 Demo Flow (5 Minutes)
 
@@ -258,23 +224,7 @@ Role: Traffic Police
 
 ---
 
-## 🎯 Impact Metrics
 
-### Time Savings
-- **Before RAKSH:** 10-15 minutes to coordinate emergency response
-- **With RAKSH:** 30 seconds to alert all stakeholders
-
-### Efficiency
-- **Coordination:** 0 phone calls vs 5+ phone calls
-- **Updates:** Real-time vs delayed/outdated
-- **Preparation:** Proactive vs reactive
-
-### Lives Saved
-- Every minute saved in cardiac emergencies = **10% better survival rate**
-- Faster response time = **40-60% improvement**
-- Better coordination = **Thousands of lives annually**
-
----
 
 ## 🚀 Future Enhancements
 
@@ -329,17 +279,7 @@ raksh/
 
 ---
 
-## 🤝 For Hackathon Judges
 
-### Why RAKSH Deserves to Win
-
-1. **Real Problem:** Addresses actual emergency response delays
-2. **Complete Solution:** Fully functional end-to-end system
-3. **Innovation:** First integrated platform for all three stakeholders
-4. **Scalability:** Built on production-ready infrastructure
-5. **Impact:** Can save thousands of lives
-6. **Execution:** Working demo with three unique interfaces
-7. **Documentation:** Comprehensive guides and architecture
 
 ### Live Demo Highlights
 
@@ -374,45 +314,6 @@ raksh/
 
 ---
 
-## 📞 Support & Questions
-
-### Common Issues
-
-**Q: Map not loading?**
-A: Check internet connection and refresh page
-
-**Q: Location not detected?**
-A: Allow browser location permissions (fallback coordinates work too)
-
-**Q: Dashboards not syncing?**
-A: Wait 5 seconds for auto-refresh
-
-**Q: Can't login?**
-A: Ensure you've signed up first with correct role
-
----
-
-## 🏆 Hackathon Strategy
-
-### Presentation Tips
-
-1. **Start with the problem** - Make it relatable
-2. **Live demo** - Don't use slides for features
-3. **Show all three dashboards** - The integration is key
-4. **Emphasize real-time** - This is your differentiator
-5. **Discuss impact** - Lives saved, time reduced
-6. **Be passionate** - You believe in this solution
-
-### Technical Questions
-
-Be ready to discuss:
-- Real-time architecture (polling vs WebSocket)
-- Scalability (how to handle city-wide deployment)
-- Security (auth, roles, data protection)
-- Integration (with existing emergency services)
-- Future enhancements (AI, IoT, mobile apps)
-
----
 
 ## 📈 Success Metrics
 
@@ -444,35 +345,8 @@ Built with ❤️ for saving lives and making the world a better place.
 - Tailwind CSS & Shadcn UI
 - Hono (Edge Functions)
 
-**Special Thanks:**
-- Emergency responders worldwide
-- Open source community
-- Hackathon organizers
 
----
 
-## 📄 License
-
-This project is built for educational and demonstration purposes.
-
-**For Production Use:** Additional considerations needed:
-- HIPAA compliance for medical data
-- Integration with existing emergency services
-- Professional GPS tracking devices
-- Municipal traffic control integration
-- 24/7 support infrastructure
-
----
-
-## 🚀 Get Started Now!
-
-1. Read [QUICK_START.md](./QUICK_START.md)
-2. Create your test accounts
-3. Try the emergency flow
-4. Prepare your demo
-5. Win your hackathon! 🏆
-
----
 
 <div align="center">
 
